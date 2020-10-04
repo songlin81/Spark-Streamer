@@ -1,1 +1,9 @@
-[debug] Jar uptodate: C:\Spark\demosbt\target\scala-2.12\demosbt_2.12-0.1.jar
+[debug] Packaging C:\Spark\demosbt\target\scala-2.12\demosbt_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	SessionMain$.class
+[debug] 	  C:\Spark\demosbt\target\scala-2.12\classes\SessionMain$.class
+[debug] 	SessionMain$delayedInit$body.class
+[debug] 	  C:\Spark\demosbt\target\scala-2.12\classes\SessionMain$delayedInit$body.class
+[debug] 	SessionMain.class
+[debug] 	  C:\Spark\demosbt\target\scala-2.12\classes\SessionMain.class
+[debug] Done packaging.

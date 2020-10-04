@@ -1,7 +1,5 @@
-[error] Terminating watch due to invalid command(s): 'Expected ';'
-[error] Not a valid command: un
-[error] Not a valid project ID: un
-[error] Expected ':'
-[error] Not a valid key: un
-[error] un
-[error]   ^'
+[debug] [watch] [demosbt / Compile / run] Found inputs: C:\Spark\demosbt\*.{java,scala},C:\Spark\demosbt\src\main\java\**\*.{java,scala},C:\Spark\demosbt\src\main\resources\**\*,C:\Spark\demosbt\src\main\scala\**\*.{java,scala},C:\Spark\demosbt\src\main\scala-2.12\**\*.{java,scala}
+[info] 1. Monitoring source files for demosbt/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] [watch] [debug] Received input event: Run().
+[debug] [watch] [debug] Received input event: Run().
